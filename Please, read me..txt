@@ -1,0 +1,17 @@
+This is Heisei's simple autoclicker, version 1.0.1
+
+It's not meant to be public, and was only built to satisfy to a friend of mine's needs.
+
+It's ugly as sin, because learning GUI design is a different monster altogether.
+
+If you got your hands on it and you're not someone I personally know, consider this our little secret, okay?
+
+It uses JNativeHook. Go check it out, and you'll probably be able to write something much better than this dingy little thing.
+
+If you find it useful, consider buying me a coffee at https://www.ko-fi-com/heisei
+
+I hope your day goes well, and you find success in your endevors, no matter who you are, or where you are.
+
+You've got this. I believe in you.
+
+- Heisei.
